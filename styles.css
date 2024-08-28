@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+}
+h1{
+    color:rgb(238, 243, 241);
+    text-align: center;
+}
+p{
+   margin: auto; 
+}
+header {
+    margin: 5px;
+    padding: 2px;
+    background-color: rgb(180, 74, 38);
+}
+ul li a {
+    display: inline-block;
+}
+ul li a:hover{
+    background-color: rgb(13, 72, 62);
+}
+li {
+list-style-type: none;
+
+display: inline;
+}
+li a{
+    text-decoration:none;
+    color: white;
+    
+}
